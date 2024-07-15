@@ -3,7 +3,7 @@ package arrayList;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Exercise1 {
+public class Exercise1_Add {
 
 	
 	//Create a new array list, add some elements and print out the collection
